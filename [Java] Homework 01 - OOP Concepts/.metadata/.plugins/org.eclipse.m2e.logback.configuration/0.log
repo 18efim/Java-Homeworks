@@ -1,0 +1,15 @@
+2015-02-26 00:59:21,181 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\pom.xml
+2015-02-26 00:59:22,873 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:rrrr:1.1 @ C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\pom.xml.
+2015-02-26 00:59:23,473 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rrrr/src/main/java
+2015-02-26 00:59:23,488 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rrrr/src/test/java
+2015-02-26 00:59:24,015 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:rrrr:1.1 @ C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\pom.xml.
+2015-02-26 00:59:24,295 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-02-26 00:59:25,345 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:rrrr:1.1 @ C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\pom.xml.
+2015-02-26 00:59:25,460 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 00:59:25,460 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\src\main\resources
+2015-02-26 00:59:25,460 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 00:59:25,460 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\src\test\resources
+2015-02-26 01:00:51,904 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 01:00:51,910 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\src\main\resources
+2015-02-26 01:00:51,913 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-26 01:00:51,913 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\[Java] Homework 01 - OOP Concepts\rrrr\src\test\resources
